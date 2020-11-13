@@ -231,11 +231,11 @@ h1,h2,h3{
 /* END OF PARALLAX */
 /* NAVIGATION */
 #fabtheme-navbar{
-	background-color: #9C0D38;
+	background-color: #12a8c9;
 	color: #F3F3F3;
 }
 #fabtheme-navbar.solid{
-	background-color: #9C0D38;
+	background-color: #12a8c9;
 	color: #F3F3F3;
 	transition-delay: 0.2s;
 	transition-property: all;
